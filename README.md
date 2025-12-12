@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Pradeep Suhag
 
-<!--
-**9992919148/9992919148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | Laravel | Core Php | Mysql | Livewire | Node.js | API Integration
 
-Here are some ideas to get you started:
+- 🔭 8+ years of experience  
+- 🛒 Built E-commerce platforms  
+- 🚗 Lead generation & Travel portals  
+- 🧰 Expert in Laravel, Livewire, Redis, Horizon  
+- 🌱 Currently learning DevOps & Docker  
+- 💬 Ask me about Laravel architecture, API design, queues & jobs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/pardeep-suhag-abb97ab7 
